@@ -1,2 +1,0 @@
-# scattic
-no
